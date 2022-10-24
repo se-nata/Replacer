@@ -1,0 +1,7 @@
+
+dataSource="DM_NIKA_KO_ORA12"
+
+http://developer.cognos.com/schemas/report/15.4/
+
+
+<modelPath>/content/folder[@name=&apos;Приложение НИКА&apos;]/folder[@name=&apos;КО&apos;]/folder[@name=&apos;Служебные объекты&apos;]/package[@name=&apos;Макет ОАД (для запросов)&apos;]/model[@name=&apos;model&apos;]</modelPath>

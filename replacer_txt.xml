@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE data >
+<data>
+	<zamena>
+		<old><![CDATA[dataSource="DM_NIKA_KO_ORA12"]]></old>
+		<new><![CDATA[dataSource="maketOAD"]]></new>
+	</zamena>
+	<zamena>
+		<old><![CDATA[<modelPath>/content/folder[@name=&apos;Приложение НИКА&apos;]/folder[@name=&apos;КО&apos;]/folder[@name=&apos;Служебные объекты&apos;]/package[@name=&apos;Макет ОАД (для запросов)&apos;]/model[@name=&apos;model&apos;]</modelPath>]]></old>
+		<new><![CDATA[<modelPath>/content/folder[@name=&apos;ФПС ИАППР&apos;]/folder[@name=&apos;ППК ОАД&apos;]/folder[@name=&apos;Служебные объекты&apos;]/package[@name=&apos;Макет ОАД (для запросов)&apos;]/model[@name=&apos;model&apos;]</modelPath>]]></new>
+	</zamena>
+	<zamena>
+		<old><![CDATA[http://developer.cognos.com/schemas/report/15.4/]]></old>
+		<new><![CDATA[http://developer.cognos.com/schemas/report/15.0/]]></new>
+	</zamena>
+</data>
